@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Node modules
+node_modules/
+# Build output
+build/
+# Local environment variables
+.env
+# Firebase config (local emulators)
+firebase-debug.log
+.firebase/
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# OS-specific files
+.DS_Store
+Thumbs.db
+# IDE-specific files (if you use VS Code or any other IDE)
+.vscode/
+.idea/
+# Coverage reports (if using test coverage tools)
+coverage/
+
+ 
